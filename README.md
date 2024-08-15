@@ -12,18 +12,22 @@ Experience NextHome live here: [NextHome Demo](https://your-demo-link.com)
 - **Advanced Search**: Filter properties by categories, price range, purpose, and more.
 - **Pagination**: Navigate through multiple pages of property listings.
 - **Responsive Design**: Seamlessly works on both desktop and mobile devices.
-- **You can add into Cart**: You cand into cart and Checkout.
+- **Add to Cart & Checkout**: Add properties to your cart and proceed to checkout.
 
-🛠️ Technologies Used
-React: For building the user interface.
-React Router: For handling routing within the application.
-Tailwind CSS: For styling the application.
+## 🛠️ Technologies Used
 
-🤝 Contributing
+- **React**: For building the user interface.
+- **React Router**: For handling routing within the application.
+- **Tailwind CSS**: For styling the application.
+
+## 🤝 Contributing
+
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-👤 Author
+## 👤 Author
+
 Maruti Panchal
