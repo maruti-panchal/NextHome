@@ -4,7 +4,9 @@ Welcome to **NextHome**, your go-to real estate flat rental website. Discover a 
 
 ## 🚀 Demo
 
-Experience NextHome live here: [NextHome Vercel]((https://next-home-sand.vercel.app/))
+## Experience NextHome
+
+Experience NextHome live here: [NextHome Vercel](https://next-home-sand.vercel.app/)
 
 ## 📜 Features
 
